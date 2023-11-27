@@ -22,5 +22,5 @@ Next
 zeit.io  
 
 ### Code IDE
-Visual Studio Code  - C/C++、Python、Rust、JavaScript
-PyCharm - Python、Rust
+Visual Studio Code  - C/C++、Python、Rust、JavaScript  
+PyCharm - Python、Rust  
