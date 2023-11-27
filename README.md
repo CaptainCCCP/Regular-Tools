@@ -18,7 +18,7 @@ imgur.com
 TypeEcho  
 Next  
 
-### make your github.io accessible on baidu/google
+### DNS redirect and make your github.io accessible for baidu/google spider
 zeit.io  
 
 ### Code IDE
