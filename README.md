@@ -2,6 +2,9 @@
 
 # =============MONEY=============
 # Writing:
+### open doc
+Lark  
+
 ### markdown writing
 Obsidian  
 Visual Studio Code  
