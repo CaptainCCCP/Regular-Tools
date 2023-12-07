@@ -41,4 +41,8 @@ PyCharm - Python、Rust
 Termius - IOS  
 Xshell  
 
+### create boot disk
+rufus - windows  
+balena etcher
+
 
